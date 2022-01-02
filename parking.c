@@ -3,11 +3,6 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-/*
-#define COCHE 1
-#define CAMION 2
-*/
-
 #define ENTRAR -1
 #define SALIR -2
 #define COCHES 10
